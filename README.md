@@ -6,7 +6,6 @@ It implements the RSA ENCRYPTION ALGORITHIM.
 
 '''
 ##### python3 toicrypt
-
 '''
 
 ## Installation
